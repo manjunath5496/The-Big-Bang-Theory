@@ -15,20 +15,15 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(10).pdf" style="text-decoration:none;">String Cosmology: Modern String Theory Concepts from the Big Bang to Cosmic Structure </a></b></li>  
         
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(11).pdf" style="text-decoration:none;">The Music of the Big Bang: The Cosmic Microwave Background and the New Cosmology </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(12).pdf" style="text-decoration:none;"> GitLab Repository Management</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(13).pdf" style="text-decoration:none;">Introducing GitHub</a></b></li> 
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(12).pdf" style="text-decoration:none;"> Endless Universe</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(13).pdf" style="text-decoration:none;">In Search of the Big Bang: The Life and Death of the Universe</a></b></li> 
  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(14).pdf" style="text-decoration:none;">Mastering Git</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(15).pdf" style="text-decoration:none;">Pro Git </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(14).pdf" style="text-decoration:none;">Once Before Time: A Whole Story of the Universe</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(15).pdf" style="text-decoration:none;">Quantum Cosmology: A Fundamental Description of the Universe </a></b></li>
 
   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(16).pdf" style="text-decoration:none;">Professional Git</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(17).pdf" style="text-decoration:none;">Version Control with Git </a></b></li>
-                                
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(18).pdf" style="text-decoration:none;">Git for Teams</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(19).pdf" style="text-decoration:none;">Pragmatic Guide to Git </a></b></li>
-         <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(20).pdf" style="text-decoration:none;">Git for Humans </a></b></li>                                                           
-                                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(16).pdf" style="text-decoration:none;">The inflationary universe. The quest for a new theory of cosmic origins</a></b></li>
+                               
                                 
                                 
                                 
