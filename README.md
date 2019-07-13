@@ -24,11 +24,21 @@
   
  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Big-Bang-Theory/blob/master/bb(16).pdf" style="text-decoration:none;">The inflationary universe. The quest for a new theory of cosmic origins</a></b></li>
                                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Big-Bang-Theory/blob/master/bb(17).pdf" style="text-decoration:none;">The Black Hole, the Big Bang – A Cosmology in Crisis</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Big-Bang-Theory/blob/master/bb(18).pdf" style="text-decoration:none;">Cosmology for the Curious </a></b></li>
+
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Big-Bang-Theory/blob/master/bb(19).pdf" style="text-decoration:none;">From the Universe to the Elementary Particles: A First Introduction to Cosmology and the Fundamental Interactions</a></b></li>                                
                                 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Big-Bang-Theory/blob/master/bb(20).pdf" style="text-decoration:none;">The Cosmological Singularity </a></b></li>
+
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Big-Bang-Theory/blob/master/bb(21).pdf" style="text-decoration:none;">Time After Time — Big Bang Cosmology and the Arrows of Time</a></b></li>                                  
                                 
-                                
-                                
-                                
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Big-Bang-Theory/blob/master/bb(22).pdf" style="text-decoration:none;">Genesis of the Cosmos: The Ancient Science of Continuous Creation  </a></b></li>
+
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Big-Bang-Theory/blob/master/bb(23).rar" style="text-decoration:none;">The Runaway Universe: The Race to Find the Future of the Cosmos</a></b></li>                                
                                 
                                 
  
